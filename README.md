@@ -5,14 +5,16 @@ This program allows polymer chemists to simulate the results of controlled polym
 ## Contributors:
 
 Anton A. A. Auzten
+
 Alexander Prossnitz
+
 Samantha Tetef
 
-Simulations from [vince-wu/CompositionalDrift](https://github.com/vince-wu/CompositionalDrift)
+Simulations from [github.com/vince-wu/CompositionalDrift](https://github.com/vince-wu/CompositionalDrift)
 
 ## Examples
 
-Using the `2Dplot.ipynb` Jupyter notebook, we read in the results from the Compositional Drift simulations (in the `Data\` folder) and made the following plots (with 2kDa and 20kDa molecular weight, respectively).
+Using the `2Dplot.ipynb` Jupyter notebook, we read in the results from the Compositional Drift simulations (found in the `Data\` folder) and made the following plots (with 2kDa and 20kDa molecular weight, respectively).
 
 <p align="center">
 <img src="Figures/2kDa_plot1.svg" alt="data image" width="600">
