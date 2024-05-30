@@ -2,7 +2,7 @@
 
 This program allows polymer chemists to simulate the results of controlled polymerizations given all required reaction parameters (monomer amounts, monomer reactivity ratio, average polydispersity, ect.). The simulations use the Mayo-Lewis equation along with Monte Carlo methods to predict polymer chain growth. The tool allows for rapid pre-experimental screening of reaction conditions along with critical post-synthesis analysis of the chain structure. Additional features in this version of Compositional Drift include scripts for visualizing (in 2D plots) the heterogeneity of compositions in the polymer chains of a given reaction as well as an example method for calculating compositional dispersity index.
 
-## Contributors:
+## Contributors
 
 Anton A. A. Auzten
 
